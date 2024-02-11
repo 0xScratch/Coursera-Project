@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.section-break {
+    border: none;
+    border-top: 3px solid #000; /* Adjust thickness and color as needed */
+    margin: 50px 0; /* Adjust as needed */
+}
+
+.card {
+    display: inline-block; 
+    border: 3px solid #D4D4D4; 
+    box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5); 
+    padding: 30px; 
+    margin: 15px;
+    border-radius: 10px;
+}

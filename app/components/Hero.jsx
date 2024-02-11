@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export const Hero = () => {
     return (
-        <div className="flex m-32 gap-28 pl-14 pr-14">
+        <div className="flex m-32 gap-28">
             {/* Profile Pic */}
             <Image 
                 src="/profile-pic.jpg" 
