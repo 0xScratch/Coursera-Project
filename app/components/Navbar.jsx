@@ -8,7 +8,7 @@ export const Navbar = () => {
             <div className="flex-row text-white">
                 
                 {/* Name */}
-                <h1 className="text-4xl font-bold">Jane Doe</h1>
+                <h1 className="text-4xl font-bold">Aryan Malik</h1>
 
                 {/* Email */}
                 <div className="flex text-sm gap-3">
@@ -18,7 +18,7 @@ export const Navbar = () => {
                         width={24}
                         height={24}
                     />
-                    <p>jdoe931@gmail.com</p>
+                    <p>aryan.malik@outlook.com</p>
                 </div>
 
                 {/* Phone Number */}
