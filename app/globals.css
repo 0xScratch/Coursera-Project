@@ -4,8 +4,15 @@
 
 .section-break {
     border: none;
-    border-top: 3px solid #000; /* Adjust thickness and color as needed */
+    border-top: 3px solid #D3D3D3; /* Adjust thickness and color as needed */
     margin: 50px 0; /* Adjust as needed */
+}
+
+.list-section-break {
+    border: none;
+    border-top: 3px solid #D5D5D5;
+    margin: 20px auto;
+    width: 80%;
 }
 
 .card {

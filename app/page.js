@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Hero } from "./components/Hero";
 import { Card } from "./components/Card";
+import { Projects } from "./components/Projects";
 
 export default function Home() {
   return (
@@ -43,6 +44,9 @@ export default function Home() {
           exp={4}
         />
       </section>
+      <hr className="section-break"/>
+      <Projects />
+      <hr className="section-break"/>
     </main>
   );
 }
