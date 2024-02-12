@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Hero } from "./components/Hero";
 import { Card } from "./components/Card";
 import { Projects } from "./components/Projects";
+import { Recommendation } from "./components/Recommendation";
 
 export default function Home() {
   return (
@@ -47,6 +48,9 @@ export default function Home() {
       <hr className="section-break"/>
       <Projects />
       <hr className="section-break"/>
+      <Recommendation />
+      <hr className="section-break"/>
+      
     </main>
   );
 }
