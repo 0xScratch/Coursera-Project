@@ -3,6 +3,7 @@ import { Card } from "./components/Card";
 import { Projects } from "./components/Projects";
 import { Recommendation } from "./components/Recommendation";
 import { Form } from "./components/Form";
+import { PopUp } from "./components/PopUp";
 
 export default function Home() {
   return (
