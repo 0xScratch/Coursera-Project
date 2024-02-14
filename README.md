@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Coursera Final Project - Introduction to web developement with HTML, CSS and JavaScript
+
+This is the final project for the course "Introduction to web developement with HTML, CSS and JavaScript" on Coursera. The project is to create a simple website with HTML, CSS and JavaScript and sumbit its screenshots.
 
 ## Getting Started
 
-First, run the development server:
+1. First you need to clone the repo using the following command:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+    ``` bash
+    git clone https://github.com/0xScratch/Coursera-Project.git
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Then, install the dependencies using either npm or yarn or pnpm:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+    ```bash
+    npm install
+    # or
+    yarn install
+    # or
+    pnpm install
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Then, run the development server:
 
-## Learn More
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    # or
+    pnpm dev
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Open your browser and navigate to `http://localhost:3000` to see the website.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Make the following changes before taking screenshots:
+    - Change your `Name` and `Email` in the [Navbar](./app/components/Navbar.jsx) component.
+    - Again change your `Name` in [Hero](./app/components/Hero.jsx) component.
+    - Make the desired changes in [Recommendation](./app/components/Recommendation.jsx) component.
+    - Rest of the changes are optional.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+6. Take screenshots of the website and submit them.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Share and Enjoy!
