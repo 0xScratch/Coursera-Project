@@ -32,4 +32,6 @@ This is the final project for the course "Introduction to web developement with 
 
 6. Take screenshots of the website and submit them.
 
+## Contributions are Welcome..
+
 ### Share and Enjoy!
