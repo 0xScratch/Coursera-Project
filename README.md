@@ -14,20 +14,12 @@ This is the final project for the course "Introduction to web developement with 
 
     ```bash
     npm install
-    # or
-    yarn install
-    # or
-    pnpm install
     ```
 
 3. Then, run the development server:
 
     ```bash
     npm run dev
-    # or
-    yarn dev
-    # or
-    pnpm dev
     ```
 
 4. Open your browser and navigate to `http://localhost:3000` to see the website.
