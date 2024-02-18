@@ -39,6 +39,7 @@ export const Navbar = () => {
                 <a href="/" className="hover:underline hover:font-bold">Skills</a>
                 <a href="/" className="hover:underline hover:font-bold">Projects</a>
                 <a href="/" className="hover:underline hover:font-bold">Recommendations</a>
+                <a href="/" className="hover:underline hover:font-bold">Contact Us</a>
             </div>
         </nav>
     );
